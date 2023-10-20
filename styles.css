@@ -2,7 +2,7 @@
 /* Your CSS Code here. */
 .holder {
   display: grid;
-  grid-template-columns: 97.5px 97.5px;
+  grid-template-columns: 100px 100px;
   grid-template-rows: 100px 100px;   
   width: 200px;                         
   height: 200px;                  
